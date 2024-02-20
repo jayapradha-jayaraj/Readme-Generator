@@ -1,7 +1,6 @@
-# jay
+# ReadMe Generator
 
-## Table of Contents
-
+  ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -11,30 +10,24 @@
 - [Questions](#questions)
 
 ## Description
-
-jjj
+This project is to create a readme file from the user input using node inquier
 
 ## Installation
-
-jjjjjjjjjj
+Install the dependencies and  "inquirer": "^6.3.1"
 
 ## Usage
-
-jjjjj
+Readme will be created and overrided each time you run the application
 
 ## License
-
-This project is licensed under the MIT license.
+This project is licensed under the Apache license.
 
 ## Contributing
-
-jjj
+None
 
 ## Tests
-
-hhhh
+Provide input for all the questions
 
 ## Questions
+For additional questions, you can reach me at jayapradha.jayaraj@gmail.com.
+Visit my GitHub: [jayapradha-jayaraj](https://github.com/jayapradha-jayaraj)
 
-For additional questions, you can reach me at hhhhhh.
-Visit my GitHub: [hhhh](https://github.com/hhhh)
